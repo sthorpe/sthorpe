@@ -1,5 +1,6 @@
 ### Hey 👋
 
+```
 .     .       .  .   . .   .   . .    +  .
   .     .  :     .    .. :. .___---------___.
        .  .   .    .  :.:. _".^ .^ ^.  '.. :"-_. .
@@ -25,8 +26,9 @@
      .         +   .  .  ...:: ..|  --.:|
 .      . . .   .  .  . ... :..:.."(  ..)"
  .   .       .      :  .   .: ::/  .  .::\
+```
 
-- 🔭 I’m currently working on editpage.co startuptrader.com blockpire.com
+- 🔭 I’m currently working on [EditPage](http://editpage.co) [StartupTrader](http://startuptrader.com) [Blockpire](http://blockpire.com)
 
 <!--
 **sthorpe/sthorpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

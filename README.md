@@ -28,7 +28,7 @@
  .   .       .      :  .   .: ::/  .  .::\
 ```
 
-- 🔭 I’m currently working on [EditPage](http://editpage.co) [StartupTrader](http://startuptrader.com) [Blockpire](http://blockpire.com)
+- 🔭 I’m currently working on [EditPage](https://www.editpage.com) [StartupTrader](http://startuptrader.com) [Blockpire](http://blockpire.com)
 
 <!--
 **sthorpe/sthorpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
